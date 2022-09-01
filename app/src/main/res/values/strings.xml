@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Inspestor</string>
+    <string name="slogan">Your insect pest detector</string>
+    <string name="created_by">Created by: BSIT3A-Group5</string>
+    <string name="application">INSPESTOR</string>
+    <string name="subtitle">"Detect an insect pest present in rice fields."</string>
+    <string name="pest_Tname">Insect Pest Name:</string>
+    <string name="pesti_name">Active Ingredient:</string>
+    <string name="gallery">GALLERY</string>
+    <string name="camera">CAMERA</string>
+</resources>
